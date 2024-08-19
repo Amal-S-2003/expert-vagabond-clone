@@ -81,6 +81,16 @@ li:hover{
     border: 1px solid rgba(0, 0, 0, 0.4);
 }
 
+.sub button{
+    background: #41A4A9;
+    border: none;
+}
+.sub button:hover{
+    background: #338084;
+}
+
+
+
 .input{
     width: 100%;
     height: fit-content;
